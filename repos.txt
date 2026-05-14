@@ -17,5 +17,6 @@ KaringX/karing|\.dmg|\.exe
 
 # 5. Disable a line by commenting it with #
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
-anonvector/SlipNet|slipnet-linux-amd64
+anonvector/SlipNet|SlipNet-v2.5.3-full-release-arm64-v8a.apk
+
 
